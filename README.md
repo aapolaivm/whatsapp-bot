@@ -1,1 +1,1 @@
-<<This is whatsapp bot>>
+This is my python srcipt for whatspp bot. This bot is made with the help of https://www.geeksforgeeks.org/python/building-whatsapp-bot-on-python/
