@@ -1,1 +1,1 @@
-This is my python srcipt for WhatsApp bot. This bot is made with the help of https://www.geeksforgeeks.org/python/building-whatsapp-bot-on-python/
+This is my python srcipt for WhatsApp bot. This bot is made with the help of https://www.geeksforgeeks.org/python/building-whatsapp-bot-on-python/. I put this bot to run in my server so i can use it always. 
